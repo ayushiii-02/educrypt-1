@@ -122,7 +122,7 @@ Security-first mindset (token auth, API key safety)
 Scalable project structure for education tech
 
 📬 Contact
-Built by Pooja Liladhar Bagul
-LinkedIn: www.linkedin.com/in/poojabagul
-Email: pooja.l.bagul9805@gmail.com
+Built by Pooja Liladhar Bagul & Ayushi Soni 
+LinkedIn: www.linkedin.com/in/poojabagul | www.linkedin.com/in/ayushi2
+Email: pooja.l.bagul9805@gmail.com | ayushiii2212@gmail.com
 
